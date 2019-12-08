@@ -2,7 +2,7 @@
 
 A simple python script that checks for links that might possibly lead to a directory listing. 
 
-[![asciicast](https://asciinema.org/a/MvWbcv8dPVOxXHwVVaOoc4fX9.svg)](https://asciinema.org/a/MvWbcv8dPVOxXHwVVaOoc4fX9)
+<a href="https://asciinema.org/a/MvWbcv8dPVOxXHwVVaOoc4fX9" target="_blank"><img src="https://asciinema.org/a/MvWbcv8dPVOxXHwVVaOoc4fX9.svg" width=50%/></a>
 
 Set `CHECK_LINKS` in `run.py` to true to make the script check if the links it finds are valid. 
 This usually takes a minute or so.
